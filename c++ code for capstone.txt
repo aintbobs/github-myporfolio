@@ -1,4 +1,4 @@
-finals 7.0 
+//MCU-Based Charcoal Briquette Machine
 
 #include <LiquidCrystal_I2C.h>
 #include <HX711.h>
@@ -271,33 +271,6 @@ void loop() {
     
   
   }
-  
-
-  
-  //if (digitalRead(RELAY_PIN2) == HIGH) {
-    //digitalWrite(TRIG_PIN2, HIGH);
-    //delayMicroseconds(2);
-    //digitalWrite(TRIG_PIN2, LOW);
-    //long duration_us = pulseIn(ECHO_PIN2, HIGH);
-    //float distance_cm = duration_us * 0.034 / 2;
-    //stopStepper1();
-    
-
-    //if (distance_cm > 11) {
-  //    digitalWrite(RELAY_PIN2, LOW);
-   //   digitalWrite(ledWhitePin, HIGH);
-      //tone(buzzerPin, 1000);
-   //   stepperRunning2 = false;
-   //   stepperRunning3 = false;
-   //   steppercounterRunning2 = false;
-   // } else {
-   //   digitalWrite(ledBluePin, LOW);
-   //   noTone(buzzerPin);
-    //  stepperRunning3 = true;
-   //   stepperRunning2 = true;
-   //   stopStepper1();
-   // }
- // }
 
   Serial.print("distance: ");
   Serial.print(distance_cm);
@@ -413,4 +386,5 @@ digitalWrite(dirPin3, LOW);
 void clearLine(int line) {
   lcd.setCursor(0, line);
   lcd.print("                    "); // Clear the line (20 characters for a typical LCD)
+
 }
