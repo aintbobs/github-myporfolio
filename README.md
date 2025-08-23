@@ -23,9 +23,10 @@
 ---
 
 ## 📜 Certificates
-- [AWS Academy Graduate - Cloud Foundations](#)  
-- [SQL Fundamentals](#)  
-- [Responsive Web Design](#)  
+- [AWS Academy Graduate - Cloud Foundations](AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20241214-28-dc4hm0.pdf)  
+- [Red hat Academy - Red Hat System Administration 1 (RH124)](Red_hat_Academy_Certificate)  
+- [Oracle Academy - Java Foundation](certificate.pdf)
+- [AI Ready ASEAN Programme - ASEAN Foundation](AI_Ready_ASEAN_Programme_ASEAN_Foundation) 
 
 ---
 
