@@ -40,7 +40,7 @@
 ---
 
 ## 📫 Let's Connect
-- 🌐 Portfolio: [your-portfolio-link](#)  
+- 🌐 Portfolio: [[My Portfolio](https://aintbobs.github.io/portfolio-website/Practice_Web_Dev.html)]  
 - 💼 LinkedIn: [www.linkedin.com/in/bob-injelou-diangson](bb5b9a333)  
 - 📧 Email: **bobinjeloudiangson123@gmail.com**
 
